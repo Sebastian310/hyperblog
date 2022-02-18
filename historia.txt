@@ -3,5 +3,7 @@ Este es un mensaje de prueba
 esta es la primera modificación que haremos
 
 es el primer commit que realizaremos
+Hoy hablaremos en vez de su historia, de su vida y obra
+
 
 Happy day
